@@ -7,3 +7,6 @@ In this repository I stream Bitcoin's Level2 Orderbook from Coinbase and I use a
 1. websocket
 2. numpy
 3. pytorch
+
+## Video Link
+![Anomaly Detector Video](https://www.youtube.com/watch?v=pS-gqSCPVz8)
